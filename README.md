@@ -4,7 +4,7 @@
 **Course Code:** DS314 (Generative AI & LLM Systems)  
 **Authors:**
 - **Rogelio Q. Mandamian III** ([@Troge-dev](https://github.com/Troge-dev))
-- **Pandi**
+- **Ashlanie L. Pandi**
 
 ---
 
