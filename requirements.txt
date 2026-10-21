@@ -1,0 +1,19 @@
+# DS314 — LangChain (2026, Google AI Studio edition) — requirements.txt
+# Install with: pip install -r requirements.txt
+
+pandas
+langchain>=1.0
+langchain-core>=0.3
+langchain-google-genai
+langchain-huggingface
+langchain-community
+langgraph>=0.2
+
+transformers>=4.44
+torch
+accelerate
+sentencepiece
+sentence-transformers>=2.6
+faiss-cpu
+
+python-dotenv
