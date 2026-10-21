@@ -1,6 +1,6 @@
-# DS314: Generative AI & LLM Systems — Midterm Practical Examination
+# DS314: Generative AI & LLM Systems - Midterm Practical Examination
 
-**Institution:** University of Science and Technology of Southern Philippines (USTP) — BS Data Science 3A  
+**Institution:** University of Science and Technology of Southern Philippines (USTP) - BS Data Science 3A  
 **Course Code:** DS314 (Generative AI & LLM Systems)  
 **Authors:**
 - **Rogelio Q. Mandamian III** ([@Troge-dev](https://github.com/Troge-dev))
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview: Rebuilding Rovi
+## Project Overview: Rebuilding Rovi
 
 This practical midterm project focuses on diagnosing, benchmarking, and re-architecting **Rovi**, an internal customer support chatbot for the **Rovelyn Sports Memorabilia Museum**. 
 
@@ -22,7 +22,7 @@ Through systematic revision across five foundational GenAI topics (Settings, RAG
 
 ---
 
-## 📊 Scoreboard Comparison: Baseline vs. Rebuilt Rovi
+## Scoreboard Comparison: Baseline vs. Rebuilt Rovi
 
 | Evaluation Criterion | Baseline Broken Rovi | Rebuilt Rovi (`my_rovi`) | Improvement |
 | :--- | :---: | :---: | :---: |
@@ -34,7 +34,7 @@ Through systematic revision across five foundational GenAI topics (Settings, RAG
 
 ---
 
-## 🛠️ Architecture & Topic Mapping
+## Architecture & Topic Mapping
 
 Our engineering solution follows a 5-step pipeline mapped directly to DS314 topics:
 
@@ -83,7 +83,7 @@ flowchart TD
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 ```text
 ├── .env.example                               # Environment template for Gemini API key
@@ -96,7 +96,7 @@ flowchart TD
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -131,7 +131,7 @@ cp .env.example .env
 ```
 Open `.env` and paste your key:
 ```env
-GEMINI_API_KEY_1=AIzaSy...
+GEMINI_API_KEY_1=your_gemini_api_key_here
 ```
 
 ### 5. Launch the Notebook
@@ -141,5 +141,5 @@ jupyter notebook Mandamian_Pandi_DS314_Midterm_Exam.ipynb
 
 ---
 
-## 📜 Academic Integrity & License
+## Academic Integrity & License
 This repository is submitted as partial fulfillment of the requirements for **DS314 (Generative AI & LLM Systems)**. Academic review and grading use only.
