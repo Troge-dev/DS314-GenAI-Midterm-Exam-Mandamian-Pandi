@@ -2,6 +2,7 @@
 
 **Institution:** University of Science and Technology of Southern Philippines (USTP) - BS Data Science 3A  
 **Course Code:** DS314 (Generative AI & LLM Systems)  
+**Instructor:** Kein Jake Culanggo  
 **Authors:**
 - **Rogelio Q. Mandamian III** ([@Troge-dev](https://github.com/Troge-dev))
 - **Ashlanie L. Pandi**
